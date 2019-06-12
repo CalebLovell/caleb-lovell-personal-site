@@ -8,7 +8,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
     <h1>Caleb Lovell</h1>
-    <p>This is an auto-deploy test.</p>
+    <p>This is an auto-deploy test. Test test</p>
     <p>Now go build something great.</p>
     <div className='image__holder'>
       <img
